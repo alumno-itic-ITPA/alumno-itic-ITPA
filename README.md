@@ -1,6 +1,12 @@
+# Edinguer Vázquez Ayala
 ## Hi there 👋
+### Hola
 
-<!--
+```python
+print("Hola, mundo!")
+```
+
+Voy a programar en `Python`
 **alumno-itic-ITPA/alumno-itic-ITPA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +19,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
